@@ -1,2 +1,2 @@
 # amazing-mech
-Code for Amazing Mechatronics
+Code for NCSO Amazing Mechatronics
